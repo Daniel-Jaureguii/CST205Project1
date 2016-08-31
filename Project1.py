@@ -1,2 +1,3 @@
-#print out the text hello world to screen
-print("Hello World")
+from PIL import image
+pic= image.open("1.png")
+pic.show()
