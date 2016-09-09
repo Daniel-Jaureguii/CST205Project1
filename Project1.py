@@ -1,3 +1,4 @@
+#gitlink_https://github.com/Daniel-Jaureguii/CST205Project1/blob/master/Project1.py
 from PIL import Image#import the pillow library for python
 import statistics#statistics help when finding the median
 pic1=Image.open("/Users/danieljauregui/Desktop/CST205Proj1/1.png")
